@@ -22,7 +22,7 @@ sin comprometer su rendimiento. Algunos ejemplos populares de SGBD son MySQL, Po
 - 
 - Vidal, S. (2023, agosto 27). *¿Qué es un Sistema de Gestión de Bases de Datos (SGBD)?* Tecnobits. [Enlace aquí](https://tecnobits.com/que-es-un-sistema-de-gestion-de-bases-de-datos-sgbd/)
 
-<h1>Características Principales del Sistema de Gestión de Base de Datos (SGBD)</h1>
+<h1>Características Principales del Sistema de Gestión de Base de Datos (CASSANDRA)</h1>
 
 <h2>Escalabilidad Horizontal</h2>
 Cassandra es un sistema diseñado para escalar horizontalmente, lo que significa que a medida que se incrementa la carga de trabajo, se pueden agregar más nodos al sistema sin afectar su rendimiento o disponibilidad. Esto es fundamental en entornos distribuidos, ya que permite gestionar grandes volúmenes de datos sin la necesidad de interrumpir el servicio. La capacidad de agregar nodos de forma sencilla ayuda a que el sistema se adapte a las crecientes necesidades de las aplicaciones, como en el caso de grandes plataformas que requieren procesar y almacenar cantidades masivas de información.
