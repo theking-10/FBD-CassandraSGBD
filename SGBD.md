@@ -52,6 +52,15 @@ La seguridad en un SGBD es una característica clave para proteger la informaci�
 
 <h2>Estas características hacen que los SGBD sean herramientas poderosas y esenciales en la gestión de grandes volúmenes de datos, ofreciendo alta disponibilidad, seguridad, flexibilidad y rendimiento, lo que los hace ideales para una variedad de aplicaciones distribuidas y críticas.</h2>
 
+<p><a href="https://dbadixit.com/caracteristicas-sistema-gestor-bases-datos-sgbd-dbms/">DBA (2017, junio 16). Características de un Sistema Gestor de Bases de Datos (SGBD o DBMS). DBA dixit; DBA.</a></p>
+
+<p><a href="https://www.ionos.mx/digitalguide/hosting/cuestiones-tecnicas/sistema-gestor-de-base-de-datos-sgbd/">Introducción al sistema gestor de base de datos (SGBD). (2020, mayo 12). IONOS Digital Guide; IONOS.</a></p>
+
+<p><a href="https://benchant.com/blog/cassandra-4-performance?utm_source=chatgpt.com">Performance Cassandra 4.0 release. (s/f-a). Benchant.com. Recuperado el 11 de febrero de 2025.</a></p>
+
+<p><a href="https://benchant.com/blog/cassandra-4-performance">Performance Cassandra 4.0 release. (s/f-b). Benchant.com. Recuperado el 11 de febrero de 2025.</a></p>
+
+
 
 
 
