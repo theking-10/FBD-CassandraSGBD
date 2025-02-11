@@ -12,9 +12,12 @@ Facilita la creación, consulta, modificación y eliminación de información, g
 Estos sistemas optimizan el acceso a los datos, controlan la seguridad mediante permisos de usuario y permiten gestionar grandes volúmenes de información 
 sin comprometer su rendimiento. Algunos ejemplos populares de SGBD son MySQL, PostgreSQL, Oracle y Microsoft SQL Server.
 
+## Referencias
+- Boada, D. (2022, mayo 19). *Qué es un SGBD: Guía completa sobre los sistemas de gestión de bases de datos*. Tutoriales Hostinger. [Enlace aquí](https://www.hostinger.mx/tutoriales/sgbd)
 
 ## Referencias
-- Boada, D. (2022, mayo 19). *Qué es un SGBD: Guía completa sobre los sistemas de gestión de bases de datos*. Tutoriales Hostinger. [https://www.hostinger.mx/tutoriales/sgbd](https://www.hostinger.mx/tutoriales/sgbd)
+- Boada, D. (2022, mayo 19). *Qué es un SGBD: Guía completa sobre los sistemas de gestión de bases de datos*. Tutoriales Hostinger.
+[https://www.hostinger.mx/tutoriales/sgbd](https://www.hostinger.mx/tutoriales/sgbd)
 
 
 Vidal, S. (2023, agosto 27). ¿Qué es un Sistema de Gestión de Bases de Datos (SGBD)? Tecnobits. 
