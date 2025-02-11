@@ -56,7 +56,8 @@ La seguridad en un SGBD es una característica clave para proteger la informaci�
 - DBA. (2017, junio 16). *Características de un Sistema Gestor de Bases de Datos (SGBD o DBMS)*. DBA dixit. [Enlace aquí](https://dbadixit.com/caracteristicas-sistema-gestor-bases-datos-sgbd-dbms/)
 - IONOS. (2020, mayo 12). *Introducción al sistema gestor de base de datos (SGBD)*. IONOS Digital Guide. [Enlace aquí](https://www.ionos.mx/digitalguide/hosting/cuestiones-tecnicas/sistema-gestor-de-base-de-datos-sgbd/)
 - Benchant.com. (s/f-a). *Performance Cassandra 4.0 release*. [Enlace aquí](https://benchant.com/blog/cassandra-4-performance?utm_source=chatgpt.com)
-- Benchant.com. (s/f-b). *Performance Cassandra 4.0 release*. [Enlace aquí](https://benchant.com/blog/cassandra-4-performance)
+- Apache Cassandra. (s/f). *Apache Cassandra*. Recuperado el 11 de febrero de 2025, de [Enlace aquí](https://cassandra.apache.org/_/blog/Apache-Cassandra-4.0-Overview.html)
+
 
 
 
