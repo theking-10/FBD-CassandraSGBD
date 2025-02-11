@@ -1,6 +1,6 @@
 <h1>Apache Cassandra: Sistema de Gestión de Bases de Datos Distribuido</h1>
 
-<p><a href="https://www.hostinger.mx/tutoriales/sgbd">Enlace aquí</a></p>
+p><a href="https://www.ionos.mx/digitalguide/hosting/cuestiones-tecnicas/apache-cassandra/">Enlace aquí</a></p>
 
 <p>Apache Cassandra es un sistema de gestión de bases de datos distribuido y de código abierto, diseñado para manejar grandes volúmenes de datos en entornos distribuidos. A continuación, se detallan las versiones principales de Cassandra, el año de lanzamiento de la primera versión y los beneficios de la última versión disponible:</p>
 
