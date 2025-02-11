@@ -1,4 +1,9 @@
-Qué es un Sistema de Gestión de Bases de Datos (SGBD)
+![Casandra](https://github.com/theking-10/FBD-CassandraSGBD/raw/main/Casandra.png)
+
+
+
+<h1>Qué es un Sistema de Gestión de Bases de Datos (SGBD)</h1>
+
 Un Sistema de Gestión de Bases de Datos (SGBD) es un software diseñado para administrar bases de datos de manera estructurada, eficiente y segura.
 Su función principal es permitir la creación, almacenamiento, modificación, consulta y eliminación de datos, garantizando su disponibilidad e integridad. 
 Estos sistemas son fundamentales en el manejo de grandes volúmenes de información y son ampliamente utilizados en aplicaciones empresariales, científicas y tecnológicas.
@@ -14,12 +19,6 @@ sin comprometer su rendimiento. Algunos ejemplos populares de SGBD son MySQL, Po
 
 ## Referencias
 - Boada, D. (2022, mayo 19). *Qué es un SGBD: Guía completa sobre los sistemas de gestión de bases de datos*. Tutoriales Hostinger. [Enlace aquí](https://www.hostinger.mx/tutoriales/sgbd)
-
-## Referencias
-- Boada, D. (2022, mayo 19). *Qué es un SGBD: Guía completa sobre los sistemas de gestión de bases de datos*. Tutoriales Hostinger.
-[https://www.hostinger.mx/tutoriales/sgbd](https://www.hostinger.mx/tutoriales/sgbd)
-
-
-Vidal, S. (2023, agosto 27). ¿Qué es un Sistema de Gestión de Bases de Datos (SGBD)? Tecnobits. 
-https://tecnobits.com/que-es-un-sistema-de-gestion-de-bases-de-datos-sgbd/
+- 
+- Vidal, S. (2023, agosto 27). *¿Qué es un Sistema de Gestión de Bases de Datos (SGBD)?* Tecnobits. [Enlace aquí](https://tecnobits.com/que-es-un-sistema-de-gestion-de-bases-de-datos-sgbd/)
 
